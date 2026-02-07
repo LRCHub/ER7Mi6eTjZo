@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "儚くも永久のカナシ",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-07T22:53:13.372001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_儚くも永久のカナシ_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hakanaku mo Towa no Kanashi [儚くも永久のカナシ]",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_Hakanaku_mo_Towa_no_Kanashi_[儚くも永久のカナシ]_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_儚くも永久のカナシ_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ (feat. Non)",
+      "artist": "Hommarju feat. Non",
+      "has_synced": false,
+      "path": "select/04_儚くも永久のカナシ_(feat._Non)_Hommarju_feat._Non.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/05_儚くも永久のカナシ_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/06_儚くも永久のカナシ_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ (アニメ ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/07_儚くも永久のカナシ_(アニメ_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_儚くも永久のカナシ_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ - Hakanakumo Towa No Kanashi",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/09_儚くも永久のカナシ_-_Hakanakumo_Towa_No_Kanashi_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ (アニメver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/10_儚くも永久のカナシ_(アニメver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/11_儚くも永久のカナシ_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "UVERworld_儚くも永久のカナシ",
+      "artist": "Various Artist",
+      "has_synced": true,
+      "path": "select/12_UVERworld_儚くも永久のカナシ_Various_Artist.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "儚くも永久のカナシ",
+      "artist": "GUNDAM",
+      "has_synced": false,
+      "path": "select/13_儚くも永久のカナシ_GUNDAM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "儚くも永久のカナシ",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_儚くも永久のカナシ_UVERworld.txt"
+    }
+  ]
+}
